@@ -1,2 +1,8 @@
-# data-structures-studying
-Implementation of fundamental data structures and algorithms in Java, focused on computer science foundations and clean code practices.
+# Data Structures & Algorithms Studies
+
+This repository contains my personal implementations and studies of fundamental data structures and algorithms. The main goal is to strengthen my computer science foundations and practice problem-solving.
+
+## 🛠️ Technologies
+* **Java**
+* **Intellij**
+* **Git & GitHub**
